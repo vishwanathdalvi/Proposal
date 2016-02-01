@@ -45,7 +45,7 @@ Figure 2:
     Both regions show a very strong relationship between good kitchens and TV ownership.
     
     The data is taken from the 2011 Indian Census' Households Data: http://www.censusindia.gov.in/2011census/Hlo-series/hlo.html  
-    The data is reported as number of households in various tehsils (sub-districts) that have indoor toilets, TVs, LPG kitches etc.
+    The data is reported as number of households in various tehsils (sub-districts) that have indoor toilets, TVs, LPG kitchens etc.
     
     The data is complied in three files:
     mah_assets_tv.csv  : for asset (including TV) ownership
