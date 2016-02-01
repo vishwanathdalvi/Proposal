@@ -41,7 +41,7 @@ Figure 2:
     it was interesting to explore the correlations in the sub-districts of one large state.
     The state chosen was Maharashtra since the districts here show wide variety in affluence.
       
-    The figure 2 shows the relation between a number of householding having a good kitchen and 
+    The figure 2 shows the relation between the number of households having a good kitchen and 
     the number with indoor toilets in both urban and rural areas of Maharashtra.
     A good kitchen is one that is (a) Indoors and (b) uses LPG as fuel.
     
@@ -55,7 +55,7 @@ Figure 2:
     i.e. would a lady get a better kitchen after:
         (a)  seeing a nice kitchen on TV
         (b)  being inspired by the TV personalities to be more assertive.
-    
+    Would this also work for toilets?    
     
     The data is taken from the 2011 Indian Census' Households Data: http://www.censusindia.gov.in/2011census/Hlo-series/hlo.html  
     The data is reported as number of households in various tehsils (sub-districts) that have indoor toilets, TVs, LPG kitches etc.
