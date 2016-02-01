@@ -8,12 +8,6 @@ There are two figures:
 Figure 1:
     The figure shows the relation between crimes against women as arrests-per-million-residents and the
     accessibility of toilets.  The data is aggregated statewise.
-    There is strong correlation (r2 ~ 0.5) for a very peculiar crime: dowry-crimes (including dowry deaths).
-    What was peculiar about this data is that there was no correlation between OTHER behaviours 
-    designed to intimidate women e.g. rape, kidnapping, cruelty, assault etc.
-    This might merely hide the fact that the other crimes go unreported: often covered up by the
-    victim herself. The dowry death is the only crime to come to light since the victim is 
-    no longer alive to protect her assailants.    
     
     This figure was made using data from two sources:
     1.  https://data.gov.in/resources/persons-arrested-under-crime-against-women-during-2001-2012/
@@ -37,7 +31,7 @@ Figure 1:
     The data is complied in rape_vs_toilet.csv
 
 Figure 2:
-    Since Figure 1 seems to show a relation between toilet access and respect for women in large states, 
+    Since Figure 1 seems to show a relation between toilet access and respect for women statewise, 
     it was interesting to explore the correlations in the sub-districts of one large state.
     The state chosen was Maharashtra since the districts here show wide variety in affluence.
       
@@ -45,23 +39,16 @@ Figure 2:
     the number with indoor toilets in both urban and rural areas of Maharashtra.
     A good kitchen is one that is (a) Indoors and (b) uses LPG as fuel.
     
-    To control for affluence, two more graphs showing the relation between a good kitchen and TV ownership are shown.
-    The null hypothesis (from Figure 1) is that access to toilets is a gender justice issue.  
+    Two more graphs show the relation between a good kitchen and TV ownership.
     It is seen that urban areas show a strong correlation between good kitchens and indoor toilets.
     Rural areas also show a strong correlation but weaker than urban areas.  
     Both regions show a very strong relationship between good kitchens and TV ownership.
-    
-    The interesting question now is:  Is TV ownership driving female empowerment?  
-    i.e. would a lady get a better kitchen after:
-        (a)  seeing a nice kitchen on TV
-        (b)  being inspired by the TV personalities to be more assertive.
-    Would this also work for toilets?    
     
     The data is taken from the 2011 Indian Census' Households Data: http://www.censusindia.gov.in/2011census/Hlo-series/hlo.html  
     The data is reported as number of households in various tehsils (sub-districts) that have indoor toilets, TVs, LPG kitches etc.
     
     The data is complied in three files:
-    mah_assets_tv.csv  : for TV ownership
+    mah_assets_tv.csv  : for asset (including TV) ownership
     mah_kitchen.csv    : for kitchen details
     mah_latrine.csv    : for toilet details
       
